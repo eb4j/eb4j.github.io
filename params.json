@@ -1,0 +1,6 @@
+{
+  "name": "EB4j",
+  "tagline": "EPWING/EBook access library for Java",
+  "body": "#  Welcome to EB4j(forked) project.\r\nEB4J is a 100% pure java library to access EPWING electronic dictionaries. It is derivered from EB library in C. [http://www.sra.co.jp/people/m-kasahr/eb/index.html] \r\nThe original project has been developed by Mr. Hisaya FUKUMOTO at OSDN [http://eb4j.osdn.jp/]\r\n\r\n## License\r\nEB4J is distributed on LGPL2.1.\r\n\r\n## Difference from the original\r\n\r\n* It is located in package 'io.github.eb4j' than original 'fuku.eb4j'.\r\n* It is targeted and compiled on Java8 than Java6 for original.\r\n* It is updated with some bug fixes.\r\n* It will be released on jceter repository.\r\n* It uses Gradle for build system, against original uses Maven.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
